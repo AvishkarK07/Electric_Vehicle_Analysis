@@ -223,7 +223,39 @@ This horizontal bar chart displays the **top 5 electric vehicle manufacturers by
 <h1>Total Vehicles by CAFV Eligibility</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/8.png" />
 
+## ♻️ Total Vehicles by CAFV Eligibility – Explanation
+
+This donut chart represents the **distribution of electric vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility**, showing how many vehicles qualify for clean fuel incentives.
+
+### 🔍 Key Insights
+
+- **CAFV Unknown** accounts for the largest share with **69,698 vehicles (46.33%)**.  
+  This indicates a significant portion of the dataset lacks confirmed eligibility information, which may be due to missing data or pending classification.
+
+- **CAFV Eligible** vehicles total **62,891 (41.81%)**, representing a substantial segment that qualifies for clean fuel benefits and incentives.
+
+- **CAFV Not Eligible** vehicles make up **17,833 (11.86%)**, forming the smallest share of the dataset.
+
 ---
+
+### 📊 Distribution Summary
+
+- Nearly **half of the vehicles have unknown CAFV status**, highlighting a data quality or reporting gap.
+- A majority of vehicles with known status are **CAFV eligible**, suggesting strong alignment with clean energy policies.
+
+---
+
+### 🧠 Business Interpretation
+
+- The high percentage of **CAFV-eligible vehicles** reflects positive adoption of clean and compliant EV models.
+- The large **unknown category** suggests the need for:
+  - Improved data validation
+  - Better eligibility tracking
+- Policy analysis should focus on vehicles with confirmed eligibility to avoid misinterpretation.
+
+---
+
+  
 <h1>Top 10 Total Vehicles by Model</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/9.png" />
 
