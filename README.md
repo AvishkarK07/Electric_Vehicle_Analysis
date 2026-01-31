@@ -1,5 +1,3 @@
-# Electric_Vehicle_Analysis
-
 # 🚗 Electric Vehicle Population Dataset
 <img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
 
@@ -136,7 +134,7 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 🎯 Represents transiti
 
 ---
-<h1>📊 Total Vehicles by Model Year </h1>
+<h1>📊 Total Vehicles by Model Year :</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
 
 ### 📝Explanation
