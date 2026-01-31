@@ -81,14 +81,17 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 - Vehicle Location is stored as POINT geometry and may need parsing  
 
 ---
+<h1>Total vehicle :</h1>
 <img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/15.png" />
-
-<img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.png" />
-
-<img width="300" height="150" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.png" />
-
-
-<img width="300" height="150" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.png" />
+---
+<h1> Average Electric Range :</h1>
+<img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/16.png" />
+---
+<h1>Total BEV Vehicles  :</h1>
+<img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/17.png" />
+---
+<h1> Total PHEV Vehicles :</h1>
+<img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/18.png" />
 
 ---
 <h1>📊 Total Vehicles by Model Year </h1>
