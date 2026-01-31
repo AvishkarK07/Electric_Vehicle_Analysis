@@ -94,8 +94,26 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
 
 
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/6.png" />
 
 
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/7.png" />
+
+
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/8.png" />
+
+
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/9.png" />
+
+
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/10.png" />
+
+
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/11.png" />
+
+
+
+<img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/12.png" />
 
 
 
