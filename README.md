@@ -334,13 +334,89 @@ This bar chart highlights the **top 5 cities with the highest number of register
 ---
 
 
-<h1>Dashboard</h1>
+<h1>⚡ Electric Vehicle Data Analysis Dashboard</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/11.png" />
+
+## Dashboard Explanation
+
+📊 **Total Vehicles**  
+🚗 1,50,422 EVs registered
+
+🔋 **Average Electric Range**  
+📏 67.83 miles per vehicle
+
+⚡ **EV Type Split**
+- 🔌 **BEV:** 1,16,750 (77.6%)
+- 🔁 **PHEV:** 33,672 (22.4%)
+
+🗺️ **Total Vehicles by State**
+📍 Washington dominates EV registrations  
+🎨 Darker shade = higher EV count  
+⚠️ Other states show minimal data presence
+
+📈 **Total Vehicles by Model Year**
+- ⏳ Early years (2011–2014): Low adoption
+- 📊 Steady growth (2015–2017)
+- 🚀 Rapid increase post-2018
+- 🏆 Peak in 2023 (~37.1K vehicles)
+- ⚠️ 2024 dip due to incomplete data
+
+📉 **Average Reference Line**
+📌 Avg vehicles/year ≈ 10.7K  
+⬆️ Most recent years are above average
+
+📄 **Export Option**
+⬇️ Download dashboard as PDF
+
+💡 **Overall Insight**
+🌱 EV adoption is accelerating  
+🏙️ Urban & policy-driven regions lead growth  
+🔮 Recent years drive future forecasting
 
 
 ---
-<h1>Dashboard</h1>
+<h1>⚡ Electric Vehicle Data Analysis Dashboard</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/12.png" />
+
+ ### Dashboard Overview
+
+♻️ CAFV Eligibility
+- ✅ CAFV Eligible → 🚗 62,891 | 📊 41.81%
+- ❌ CAFV Not Eligible → 🚗 17,833 | 📉 11.86%
+- ❓ CAFV Unknown → 🚗 69,698 | 📊 46.33%
+
+🏙️ Top 5 Cities
+- 🏆 Seattle → 🚗 25,663 | 📈 52.35%
+- 🥈 Bellevue → 🚗 7,687 | 📊 15.68%
+- 🥉 Redmond → 🚗 5,499 | 📊 11.22%
+- 🌆 Vancouver → 🚗 5,310 | 📊 10.83%
+- 🏘️ Bothell → 🚗 4,861 | 📊 9.92%
+
+🏭 Top 5 Makes
+- 🥇 Tesla → 🚗 68,943 | 📈 63.54%
+- 🥈 Nissan → 🚗 13,497 | 📊 12.44%
+- 🥉 Chevrolet → 🚗 12,025 | 📊 11.08%
+- 🚙 Ford → 🚗 7,601 | 📊 7.01%
+- 🚘 BMW → 🚗 6,439 | 📊 5.93%
+
+🚘 Top Models
+- ⭐ Model Y (Tesla) → 🚗 28,502 | 📊 18.95%
+- ⭐ Model 3 (Tesla) → 🚗 27,709 | 📊 18.42%
+- 🚗 Leaf (Nissan) → 🚗 13,187 | 📊 8.77%
+- 🚙 Model S / X → 📈 Strong adoption
+- 🔋 BEV → ⚡ Dominant
+- 🔁 PHEV → 📉 Lower share
+
+🎛️ Filters & Controls
+- 🗺️ State → Dynamic filtering
+- 🔌 EV Type → BEV / PHEV
+- 🔢 Top N → Adjustable ranking
+
+💡 Overall Insight
+- 🚀 EV adoption accelerating
+- 🏙️ Urban & tech cities lead
+- 🥇 Tesla dominates market
+- ⚠️ CAFV Unknown needs data cleanup
 
 
 
