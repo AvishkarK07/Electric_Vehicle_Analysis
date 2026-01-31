@@ -91,10 +91,10 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 <img width="300" height="150" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.png" />
 
 ---
-<h1>Total Vehicles by Model Year</h1>
+<h1>📊 Total Vehicles by Model Year </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
 
-### 📊 Total Vehicles by Model Year – Explanation
+###  Explanation
 
 This chart illustrates the **number of electric vehicles registered by model year**, showing how EV adoption has changed over time.
 
