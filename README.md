@@ -140,6 +140,40 @@ This chart illustrates the **number of electric vehicles registered by model yea
 <h1>Total Vehicles by State</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/6.png" />
 
+## 🗺️ Total Vehicles by State – Explanation
+
+This choropleth map visualizes the **total number of electric vehicles (EVs) registered across different U.S. states**, providing a geographic perspective on EV adoption.
+
+### 🔍 Key Insights
+
+- **Washington State dominates EV registrations** with approximately **150,082 vehicles**, significantly higher than any other state.  
+  This is largely because the dataset is **Washington-state–focused**, not a nationwide sample.
+
+- **Other states show very low counts** (mostly single- or double-digit values), indicating:
+  - Limited coverage outside Washington
+  - Or partial / sample-level data for non-Washington states
+
+- **Western states** appear slightly more represented than central regions, while many states show minimal or no registrations.
+
+---
+
+### 🎨 Color Interpretation
+
+- **Darker shades** represent higher EV counts.
+- **Lighter shades** indicate lower EV registrations.
+- The strong contrast highlights the **uneven geographic distribution** of data.
+
+---
+
+### 🧠 Analytical Interpretation
+
+- This map should be interpreted as a **data coverage view**, not a true national EV adoption comparison.
+- Washington State is the **primary contributor** to the dataset and should be the main focus for detailed analysis.
+- Comparing states directly may lead to **misleading conclusions** due to data imbalance.
+
+
+
+
 ---
 <h1>Top 10 Total Vehicles by Make</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/7.png" />
