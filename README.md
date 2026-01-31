@@ -93,7 +93,8 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 ---
 <h1>Total Vehicles by Model Year</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
-## 📊 Total Vehicles by Model Year – Explanation
+
+### 📊 Total Vehicles by Model Year – Explanation
 
 This chart illustrates the **number of electric vehicles registered by model year**, showing how EV adoption has changed over time.
 
@@ -128,8 +129,7 @@ This chart illustrates the **number of electric vehicles registered by model yea
 - Years from **2018 onward** consistently exceed the average, highlighting accelerated adoption.
 
 ---
-
- 🧠 Business Interpretation
+### 🧠 Business Interpretation
 
 - The visualization shows a **strong upward adoption trend** for electric vehicles.
 - Recent years contribute the majority of vehicle registrations.
