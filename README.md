@@ -334,7 +334,7 @@ This bar chart highlights the **top 5 cities with the highest number of register
 ---
 
 
-<h1>⚡ Electric Vehicle Data Analysis Dashboard</h1>
+<h1>⚡ Electric Vehicle Data Analysis Dashboard-1</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/11.png" />
 
 ## Dashboard Explanation
@@ -375,7 +375,7 @@ This bar chart highlights the **top 5 cities with the highest number of register
 
 
 ---
-<h1>⚡ Electric Vehicle Data Analysis Dashboard</h1>
+<h1>⚡ Electric Vehicle Data Analysis Dashboard-2</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/12.png" />
 
  ### Dashboard Overview
