@@ -1,7 +1,7 @@
 # Electric_Vehicle_Analysis
 
 # 🚗 Electric Vehicle Population Dataset
-<img width="1100" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash1.jpg" />
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash2.jpg" />
 
 ## 📌 Overview
 
