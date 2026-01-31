@@ -81,6 +81,40 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 - Vehicle Location is stored as POINT geometry and may need parsing  
 
 ---
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/2.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/3.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
+
+
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/dash4.jpg" />
 
 ## 📄 License
 
