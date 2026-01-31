@@ -90,28 +90,36 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 
 <img width="300" height="150" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/1.png" />
 
+---
 <h1>Total Vehicles by Model Year</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
 
+---
 <h1>Total Vehicles by State</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/6.png" />
 
+---
 <h1>Top 10 Total Vehicles by Make</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/7.png" />
 
+---
 <h1>Total Vehicles by CAFV Eligibility</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/8.png" />
 
+---
 <h1>Top 10 Total Vehicles by Model</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/9.png" />
 
+---
 <h1>TOP 5 cites</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/10.png" />
 
+---
 <h1>Dashboard</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/11.png" />
 
 
+---
 <h1>Dashboard</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/12.png" />
 
