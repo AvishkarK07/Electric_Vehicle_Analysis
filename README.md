@@ -172,11 +172,52 @@ This choropleth map visualizes the **total number of electric vehicles (EVs) reg
 - Comparing states directly may lead to **misleading conclusions** due to data imbalance.
 
 
-
-
 ---
 <h1>Top 10 Total Vehicles by Make</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/7.png" />
+
+## 🏭 Top 5 Total Vehicles by Make – Explanation
+
+This horizontal bar chart displays the **top 5 electric vehicle manufacturers by total number of registered vehicles**, highlighting market dominance among leading brands.
+
+### 🔍 Key Insights
+
+- **Tesla** leads overwhelmingly with **68,943 vehicles**, accounting for **63.54%** of the total vehicles among the top 5 makes.  
+  This indicates Tesla’s strong brand presence, wider model adoption, and early leadership in the EV market.
+
+- **Nissan** ranks second with **13,497 vehicles (12.44%)**, showing steady adoption driven by popular models such as the Leaf.
+
+- **Chevrolet** follows closely with **12,025 vehicles (11.08%)**, reflecting its contribution through affordable EV offerings.
+
+- **Ford** holds the fourth position with **7,601 vehicles (7.01%)**, indicating growing but still moderate EV adoption.
+
+- **BMW** completes the top 5 with **6,439 vehicles (5.93%)**, representing a smaller yet premium segment of the EV market.
+
+---
+
+### 📊 Distribution Summary
+
+- The **top 5 manufacturers together account for 100%** of vehicles shown in this view.
+- There is a **highly skewed distribution**, with Tesla alone contributing nearly two-thirds of the total.
+- The sharp drop from Tesla to the second-ranked manufacturer highlights **market concentration**.
+
+---
+
+### 🧠 Business Interpretation
+
+- The EV market in this dataset is **dominated by a single manufacturer (Tesla)**.
+- Other manufacturers contribute meaningfully but remain far behind the market leader.
+- This insight can support:
+  - Competitive market analysis
+  - Manufacturer performance benchmarking
+  - Strategic planning and forecasting
+
+---
+
+### 🎛️ Interactivity Notes
+
+- The **Top N parameter** allows dynamic adjustment of the number of manufacturers displayed.
+- **EV Type and State filters** enable focused analysis by vehicle category or geographic region.
 
 ---
 <h1>Total Vehicles by CAFV Eligibility</h1>
