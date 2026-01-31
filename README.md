@@ -105,6 +105,37 @@ This chart illustrates the **number of electric vehicles registered by model yea
 - **Gradual Growth Phase (2015–2017):**  
   Registrations increased steadily from **~4.9K to 8.6K**, reflecting growing awareness and improving EV availability.
 
+- **First Major Spike (2018):**  
+  A significant rise to **~14.4K vehicles**, crossing the **average benchmark (10.7K)**. This suggests stronger policy support and improved charging infrastructure.
+
+- **Rapid Acceleration (2020–2023):**  
+  EV registrations grew sharply:
+  - **2021:** ~18.7K  
+  - **2022:** ~27.8K  
+  - **2023:** **Peak at ~37.1K**  
+
+  This phase represents mass adoption driven by lower battery costs, wider model choices, and increased environmental awareness.
+
+- **Sharp Drop in 2024 (~0.6K):**  
+  This decline is due to **incomplete or partial-year data** and should not be interpreted as an actual decrease in EV adoption.
+
+---
+
+### 📈 Average Reference Line
+
+- The dashed line at **~10.7K** represents the **average number of vehicles per model year**.
+- Most years before **2018** fall below this average.
+- Years from **2018 onward** consistently exceed the average, highlighting accelerated adoption.
+
+---
+
+ 🧠 Business Interpretation
+
+- The visualization shows a **strong upward adoption trend** for electric vehicles.
+- Recent years contribute the majority of vehicle registrations.
+- **2023** serves as a benchmark year for peak adoption.
+- **2024 data should be excluded or handled carefully** in trend and forecasting analyses.
+
 ---
 <h1>Total Vehicles by State</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/6.png" />
