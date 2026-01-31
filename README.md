@@ -93,6 +93,17 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 ---
 <h1>Total Vehicles by Model Year</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
+## 📊 Total Vehicles by Model Year – Explanation
+
+This chart illustrates the **number of electric vehicles registered by model year**, showing how EV adoption has changed over time.
+
+### 🔍 Key Insights
+
+- **Early Years (2011–2014):**  
+  EV adoption was minimal, starting at approximately **0.8K vehicles in 2011** and gradually increasing to around **3–4K**, indicating early market penetration.
+
+- **Gradual Growth Phase (2015–2017):**  
+  Registrations increased steadily from **~4.9K to 8.6K**, reflecting growing awareness and improving EV availability.
 
 ---
 <h1>Total Vehicles by State</h1>
