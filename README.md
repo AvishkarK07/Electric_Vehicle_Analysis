@@ -259,11 +259,81 @@ This donut chart represents the **distribution of electric vehicles based on Cle
 <h1>Top 10 Total Vehicles by Model</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/9.png" />
 
+## 🚘 Top 10 Total Vehicles by Model – Explanation
+
+This table displays the **top electric vehicle models ranked by total number of registered vehicles**, along with their manufacturer, EV type, and contribution to the overall dataset.
+
+### 🔍 Key Insights
+
+- **Tesla Model Y** is the most registered EV with **28,502 vehicles (18.95%)**, making it the single most popular model in the dataset.
+- **Tesla Model 3** closely follows with **27,709 vehicles (18.42%)**, confirming Tesla’s dominance at the model level.
+- Together, **Model Y and Model 3 contribute over 37%** of total EV registrations.
+
+- **Nissan Leaf** ranks third with **13,187 vehicles (8.77%)**, showing strong adoption as an affordable and early-market EV.
+
+- **Tesla Model S and Model X** also appear in the top ranks, reinforcing Tesla’s strong product portfolio.
+
+- **Chevrolet Bolt EV** and **Chevrolet Volt** highlight Chevrolet’s presence across both **BEV and PHEV segments**.
+
 ---
+
+### ⚡ EV Type Distribution
+
+- **Battery Electric Vehicles (BEVs)** dominate the top models, indicating stronger consumer preference for fully electric vehicles.
+- **Plug-in Hybrid Electric Vehicles (PHEVs)** appear less frequently and contribute smaller shares individually.
+
+---
+
+### 📊 Analytical Interpretation
+
+- EV adoption is **highly concentrated among a few top models**, particularly from Tesla.
+- The steep drop in percentages after the top 3 models indicates a **long-tail distribution**, where many models contribute smaller shares.
+- Model-level analysis is more impactful than brand-level analysis for understanding **consumer preferences**.
+
+---
+
 <h1>TOP 5 cites</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/10.png" />
 
+## 🏙️ Top 5 Cities by Total Vehicles – Explanation
+
+This bar chart highlights the **top 5 cities with the highest number of registered electric vehicles**, showing urban-level concentration of EV adoption.
+
+### 🔍 Key Insights
+
+- **Seattle** leads overwhelmingly with **25,663 vehicles**, accounting for **52.35%** of the total among the top 5 cities.  
+  This indicates strong EV adoption driven by urban infrastructure, higher income levels, and sustainability initiatives.
+
+- **Bellevue** ranks second with **7,687 vehicles (15.68%)**, reflecting significant adoption in a major suburban technology hub.
+
+- **Redmond** follows with **5,499 vehicles (11.22%)**, supported by a strong tech workforce and EV-friendly policies.
+
+- **Vancouver** records **5,310 vehicles (10.83%)**, showing steady EV adoption in the region.
+
+- **Bothell** completes the top 5 with **4,861 vehicles (9.92%)**.
+
 ---
+
+### 📊 Distribution Summary
+
+- The **top 5 cities together account for 49,020 vehicles**.
+- EV registrations are **heavily concentrated in Seattle**, with more than half of the total share.
+- Other cities show a relatively balanced distribution compared to the dominant leader.
+
+---
+
+### 🧠 Business Interpretation
+
+- Urban centers and tech-driven cities lead EV adoption.
+- Infrastructure availability and environmental awareness play a major role in higher registrations.
+- City-level insights can help with:
+  - Charging station planning
+  - Targeted EV incentive programs
+  - Regional demand forecasting
+
+---
+
+
 <h1>Dashboard</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/11.png" />
 
