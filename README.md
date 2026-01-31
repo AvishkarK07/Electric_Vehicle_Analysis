@@ -94,7 +94,7 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 <h1>📊 Total Vehicles by Model Year </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/5.png" />
 
-###  Explanation
+### 📝Explanation
 
 This chart illustrates the **number of electric vehicles registered by model year**, showing how EV adoption has changed over time.
 
@@ -137,10 +137,10 @@ This chart illustrates the **number of electric vehicles registered by model yea
 - **2024 data should be excluded or handled carefully** in trend and forecasting analyses.
 
 ---
-<h1>Total Vehicles by State</h1>
+<h1>🗺️ Total Vehicles by State : </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/6.png" />
 
-## 🗺️ Total Vehicles by State – Explanation
+## 📝 Explanation
 
 This choropleth map visualizes the **total number of electric vehicles (EVs) registered across different U.S. states**, providing a geographic perspective on EV adoption.
 
@@ -173,10 +173,10 @@ This choropleth map visualizes the **total number of electric vehicles (EVs) reg
 
 
 ---
-<h1>Top 10 Total Vehicles by Make</h1>
+<h1>🏭 Top 5 Total Vehicles by Make : </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/7.png" />
 
-## 🏭 Top 5 Total Vehicles by Make – Explanation
+## 📝 Explanation
 
 This horizontal bar chart displays the **top 5 electric vehicle manufacturers by total number of registered vehicles**, highlighting market dominance among leading brands.
 
@@ -220,10 +220,10 @@ This horizontal bar chart displays the **top 5 electric vehicle manufacturers by
 - **EV Type and State filters** enable focused analysis by vehicle category or geographic region.
 
 ---
-<h1>Total Vehicles by CAFV Eligibility</h1>
+<h1> ♻️ Total Vehicles by CAFV Eligibility :</h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/8.png" />
 
-## ♻️ Total Vehicles by CAFV Eligibility – Explanation
+## 📝 Explanation
 
 This donut chart represents the **distribution of electric vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility**, showing how many vehicles qualify for clean fuel incentives.
 
@@ -256,10 +256,10 @@ This donut chart represents the **distribution of electric vehicles based on Cle
 ---
 
   
-<h1>Top 10 Total Vehicles by Model</h1>
+<h1>🚘 Top 10 Total Vehicles by Model : </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/9.png" />
 
-## 🚘 Top 10 Total Vehicles by Model – Explanation
+## 📝 Explanation
 
 This table displays the **top electric vehicle models ranked by total number of registered vehicles**, along with their manufacturer, EV type, and contribution to the overall dataset.
 
@@ -292,10 +292,10 @@ This table displays the **top electric vehicle models ranked by total number of 
 
 ---
 
-<h1>TOP 5 cites</h1>
+<h1>🏙️ Top 5 Cities by Total Vehicles : </h1>
 <img width="1000" height="600" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/10.png" />
 
-## 🏙️ Top 5 Cities by Total Vehicles – Explanation
+## 📝 Explanation
 
 This bar chart highlights the **top 5 cities with the highest number of registered electric vehicles**, showing urban-level concentration of EV adoption.
 
