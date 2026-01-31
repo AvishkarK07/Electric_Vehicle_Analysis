@@ -81,23 +81,59 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 - Vehicle Location is stored as POINT geometry and may need parsing  
 
 ---
-<h1>Total vehicle :</h1>
+<h1>🚗 Total vehicle :</h1>
 <img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/15.png" />
 
+🚗 **Total Vehicles**
+
+🔢 **1,50,422**
+
+📊 Represents the **total number of electric vehicles** recorded in the dataset  
+🧮 Includes **both BEV and PHEV** vehicles  
+📍 Reflects **all records after applied filters** (State, EV Type, etc.)  
+🎯 Acts as the **primary KPI** for overall EV adoption size
+
 ---
 
-<h1> Average Electric Range :</h1>
+<h1>🔋 Average Electric Range :</h1>
 <img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/16.png" />
 
+🔋 Avg Electric Range
+
+📏 67.83 Miles
+
+⚡ Average distance an EV can travel on electric power  
+🧮 Calculated across all vehicles in the dataset  
+📍 Reflects driving efficiency and battery capability  
+🎯 Higher value = better EV performance
+
 ---
 
-<h1>Total BEV Vehicles  :</h1>
+<h1>🔌 Total BEV Vehicles  :</h1>
 <img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/17.png" />
 
+🔌 Total BEV Vehicles
+
+🚗 1,16,750  
+📊 % of Total → 77.6%
+
+⚡ Fully electric vehicles (no fuel engine)  
+📈 Majority share of total EVs  
+🎯 Indicates strong preference for BEVs
+
 ---
 
-<h1> Total PHEV Vehicles :</h1>
+<h1>🔁 Total PHEV Vehicles :</h1>
 <img width="500" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/18.png" />
+
+🔁 Total PHEV Vehicles
+
+🚗 33,672  
+📊 % of Total → 22.4%
+
+⚡🔋 Plug-in hybrid (electric + fuel)  
+📉 Smaller share vs BEV  
+🎯 Represents transiti
 
 ---
 <h1>📊 Total Vehicles by Model Year </h1>
