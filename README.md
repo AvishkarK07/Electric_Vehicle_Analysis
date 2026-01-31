@@ -80,7 +80,7 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 
 ---
 
-### 📈 Visuals :
+## 📈 Visuals :
 
 ---
 
