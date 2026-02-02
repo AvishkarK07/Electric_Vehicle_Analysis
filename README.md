@@ -10,7 +10,7 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 ---
 
 <h1>Tool Used :</h1>
-<img width="300" height="150" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/tableau.jpg" />
+<img width="300" height="300" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/tableau.jpg" />
 
 
 ---
