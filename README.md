@@ -9,6 +9,12 @@ The dataset is well-suited for **data analysis, visualization, machine learning 
 
 ---
 
+<h1>Tool Used :</h1>
+<img width="1000" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/tableau.jpg" />
+
+
+---
+
 ## 📊 Dataset Summary
 
 - **Total Records:** 150,482 rows  
